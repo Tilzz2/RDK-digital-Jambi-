@@ -408,11 +408,38 @@ body {
 
 /* Map */
 
+/* Kontainer peta agar responsif */
 .map {
-  margin: 100px;
-  height: 500px;
- 
+  width: 100%;
+  max-width: 100%;
+  height: 500px; /* Tinggi default */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px auto;
 }
+
+/* Responsif: Sesuaikan tinggi di layar kecil */
+@media (max-width: 768px) {
+  .map {
+    height: 350px; /* Kurangi tinggi di layar kecil */
+    margin: 30px auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .map {
+    height: 300px; /* Lebih kecil untuk layar HP */
+  }
+}
+
+/* Pastikan iframe juga responsif */
+.map iframe {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px; /* Opsional: Tambahkan sedikit radius agar lebih estetis */
+}
+
 
 /* Footer Styling */
 footer {
