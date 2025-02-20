@@ -1,0 +1,506 @@
+/* Global Styles */
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.vert-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.vert-text h1 {
+  font-size: clamp(2rem, 6vw, 4.5em); /* Mengatur ukuran teks agar responsif */
+  font-weight: 700;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Menjaga keterbacaan */
+}
+
+/* Side Menu */
+
+#sidebar-wrapper {
+  margin-right: -250px;
+  right: 0;
+  width: 250px;
+  background: #000;
+  position: fixed;
+  height: 100%;
+  overflow-y: auto;
+  z-index: 1000;
+  -webkit-transition: all 0.4s ease 0s;
+  -moz-transition: all 0.4s ease 0s;
+  -ms-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+}
+
+.sidebar-nav {
+  position: absolute;
+  top: 0;
+  width: 250px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar-nav li {
+  line-height: 40px;
+  text-indent: 20px;
+}
+
+.sidebar-nav li a {
+  color: #999999;
+  display: block;
+  text-decoration: none;
+}
+
+.sidebar-nav li a:hover {
+  color: #fff;
+  background: rgba(255,255,255,0.2);
+  text-decoration: none;
+}
+
+.sidebar-nav li a:active,
+.sidebar-nav li a:focus {
+  text-decoration: none;
+}
+
+.sidebar-nav > .sidebar-brand {
+  height: 55px;
+  line-height: 55px;
+  font-size: 18px;
+}
+
+.sidebar-nav > .sidebar-brand a {
+  color: #999999;
+}
+
+.sidebar-nav > .sidebar-brand a:hover {
+  color: #fff;
+  background: none;
+}
+
+#menu-toggle {
+  top: 0;
+  right: 0;
+  position: fixed;
+  z-index: 1;
+}
+
+#sidebar-wrapper.active {
+  right: 250px;
+  width: 250px;
+  -webkit-transition: all 0.4s ease 0s;
+  -moz-transition: all 0.4s ease 0s;
+  -ms-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+}
+
+.toggle {
+  margin: 5px 5px 0 0;
+}
+
+/* Efek Hover untuk Tombol */
+.btn-lg {
+  font-size: 1.5rem;
+  padding: 12px 24px;
+  border-radius: 8px;
+  transition: all 0.3s ease-in-out; /* Animasi halus saat hover */
+}
+
+/* Efek hover pada tombol default */
+.btn-default:hover {
+  background-color: #f4b400; /* Ubah warna latar belakang */
+  color: white; /* Ubah warna teks */
+  transform: scale(1.05); /* Perbesar sedikit tombol */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Tambahkan bayangan */
+}
+
+/* Efek hover pada tombol primary */
+.btn-primary:hover {
+  background-color: #0a5175; /* Warna lebih gelap saat hover */
+  color: white;
+  transform: scale(1.05);
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  position: relative;
+  top: -20px; /* Mengangkat sedikit logo tanpa merusak layout */
+  margin-top: -300px;
+}
+
+
+.logo {
+  width: clamp(100px, 15vw, 200px); /* Ukuran logo menyesuaikan layar */
+  height: auto;
+  margin-right: 15px;
+}
+
+/* Untuk layar kecil, pastikan logo tetap proporsional */
+@media (max-width: 768px) {
+  .logo-container {
+    flex-direction: column; /* Agar logo & teks tersusun vertikal */
+    align-items: center;
+    text-align: center;
+  }
+
+  .logo {
+    width: 120px; /* Ukuran lebih kecil untuk layar kecil */
+    margin-bottom: 10px; /* Tambahkan jarak dengan teks */
+  }
+
+  .logo-text {
+    text-align: center;
+  }
+}
+
+
+.logo-text h1 {
+  font-size: clamp(2rem, 5vw, 4rem);
+  font-weight: 700;
+  color: #3d7ed8;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+
+.logo-text h2 {
+  font-size: 25px;
+  color: #f3e931;
+  margin-bottom: 55px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Menjaga keterbacaan */
+}
+
+
+
+/* Full Page Image Header Area */
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Pusatkan teks di tengah */
+  align-items: center;
+  height: 100vh; /* Sesuai tinggi layar */
+  width: 100%;
+  position: relative;
+  background: url('../img/bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  text-align: center;
+  padding: 20px;
+  
+}
+
+/* Pastikan teks tetap di tengah */
+.vert-text {
+  text-align: center;
+}
+
+/* Media Sosial di Bagian Bawah */
+.social-container {
+  width: 100%;
+  position: absolute;
+  bottom: 40px; /* Jarak dari bawah */
+  text-align: center;
+}
+
+/* Tampilan ikon media sosial */
+.social-icons {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.social-icons li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.social-icons i {
+  color: white;
+  font-size: 3rem; /* Ukuran ikon agar lebih proporsional */
+  transition: 0.3s;
+}
+
+.social-icons i:hover {
+  color: #f4b400; /* Efek hover untuk interaksi */
+  transform: scale(1.1); /* Tambahkan efek membesar saat hover */
+}
+
+
+.vert-text {
+  text-align: center;
+  color: white;
+}
+
+.vert-text h1 {
+  font-size: clamp(2rem, 6vw, 4.5rem); /* Menyesuaikan ukuran dengan layar */
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.vert-text h2 {
+  font-size: clamp(1.5rem, 4vw, 3rem); /* Ukuran responsif */
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.btn-lg {
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+
+
+/* Intro */
+
+/* Intro Section */
+.intro {
+  background: linear-gradient(rgba(10, 81, 117, 0.8), rgba(10, 81, 117, 0.8)), 
+              url('../img/achievement.jpg') no-repeat center center fixed; 
+  background-size: cover;
+  padding: 80px 0;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+
+/* Tambahkan efek bayangan pada teks agar lebih terbaca */
+.intro h2 {
+  font-size: 28px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+  line-height: 1.6;
+  max-width: 900px; /* Lebarkan agar teks tidak terlalu cepat wrap */
+  text-align: center;
+  margin: 0 auto;
+}
+/* Highlight utama untuk Flower, Bee, Honey */
+.highlight {
+  font-size: clamp(2.5rem, 5vw, 3.5rem); /* Lebih besar dari teks lain */
+  font-weight: bold;
+  color: #f4b400; /* Warna mencolok */
+  text-transform: uppercase;
+  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5); /* Efek shadow */
+  margin-bottom: 15px;
+  animation: glow 1.5s infinite alternate ease-in-out;
+}
+
+/* Animasi efek cahaya */
+@keyframes glow {
+  0% {
+    text-shadow: 3px 3px 10px rgba(255, 200, 0, 0.5);
+  }
+  100% {
+    text-shadow: 3px 3px 20px rgba(255, 200, 0, 0.8);
+  }
+}
+
+/* Untuk layar kecil, atur agar tetap rapi */
+@media (max-width: 768px) {
+  .highlight {
+    font-size: 2rem;
+  }
+}
+
+
+
+/* Responsive */
+@media (max-width: 768px) {
+  .intro h2 {
+    font-size: 24px;
+  }
+}
+
+
+/* Services */
+
+.services-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px; /* Menambah jarak antar layanan */
+}
+
+.service-item {
+  width: 100%;
+  max-width: 550px; /* Membatasi lebar agar tetap rapi */
+  text-align: center;
+  padding: 20px;
+}
+
+.service-img {
+  border: 3px solid #ffffff;
+  border-radius: 10%;
+  width: 100%;
+  max-width: 500px;
+  height: auto; /* Menjaga aspek rasio */
+  object-fit: cover; /* Menyesuaikan gambar */
+}
+
+.services {
+  background: #7fbbda;
+  padding: 50px 0;
+  color: #ffffff;
+}
+
+
+/* Call to Action & Callout */
+.call-to-action {
+  color: #ffffff;
+  display: flex; /* Gunakan flexbox */
+  flex-direction: column; /* Elemen diatur secara vertikal */
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 100%;
+  background: url(../img/Candi_Muaro_Jambi_dengan_langit_biru.jpg) no-repeat center center fixed;
+  background-size: cover;
+  text-align: center;
+  padding: 50px 20px; /* Padding samping agar lebih nyaman di layar kecil */
+}
+
+.vert-text h1 {
+  font-size: clamp(2rem, 6vw, 4.5rem); /* Responsif di semua layar */
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Bayangan untuk keterbacaan */
+}
+
+.call-to-action h3 {
+  font-size: clamp(1.2rem, 4vw, 2rem); /* Responsif */
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+/* Tombol Responsif */
+.call-to-action .btn {
+  margin: 10px;
+  font-size: clamp(14px, 2vw, 18px);
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+  .call-to-action {
+    height: auto; /* Sesuaikan tinggi dengan konten */
+    padding: 30px 20px;
+  }
+
+  .vert-text h1 {
+    font-size: clamp(1.8rem, 5vw, 3rem);
+  }
+}
+
+
+
+/* Map */
+
+.map {
+  margin: 100px;
+  height: 500px;
+ 
+}
+
+/* Footer Styling */
+footer {
+  background-color: #0a5175; /* Warna latar belakang footer */
+  color: white; /* Warna teks */
+  padding: 50px 0;
+  text-align: center;
+}
+
+footer .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  footer .container {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+/* Bagian Kontak di Kiri */
+.footer-left {
+  text-align: left;
+  max-width: 300px;
+}
+
+/* Sosial Media di Tengah */
+.footer-center {
+  text-align: center;
+}
+
+.footer-center ul {
+  padding: 0;
+}
+
+.footer-center li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+/* Tombol Scroll ke Atas */
+.top-scroll a {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
+}
+
+.top-scroll a:hover {
+  color: #f4b400; /* Warna saat hover */
+  transform: scale(1.1); /* Efek memperbesar */
+}
+
+/* Ikon Sosial Media */
+.footer-center i {
+  color: white;
+  font-size: 30px;
+  transition: all 0.3s ease-in-out;
+}
+
+.footer-center i:hover {
+  color: #f4b400;
+  transform: scale(1.2);
+}
+
+/* Copyright */
+.footer-bottom {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #ddd;
+}
+
+
+@media (max-width: 768px) {
+	
+  .header {
+	background: url('../img/bg.jpg') no-repeat center center scroll; 
+  }
+
+  .callout {
+	background: url(../img/callout.jpg) no-repeat center center scroll; 
+  }
+
+  .map {
+	height: 75%;
+  }
+
+}
