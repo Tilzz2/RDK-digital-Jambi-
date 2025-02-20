@@ -275,8 +275,8 @@ body {
 }
 
 /* Tambahkan efek bayangan pada teks agar lebih terbaca */
-.intro h2 {
-  font-size: 28px;
+.intro h1 {
+ 
   font-weight: bold;
   text-transform: uppercase;
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
@@ -317,8 +317,8 @@ body {
 
 /* Responsive */
 @media (max-width: 768px) {
-  .intro h2 {
-    font-size: 24px;
+  .intro h1 {
+    font-size: 34px;
   }
 }
 
