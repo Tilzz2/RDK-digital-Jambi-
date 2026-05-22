@@ -1,0 +1,169 @@
+---
+---
+
+<footer id="contact" class="footer">
+  <div class="map-container">
+    <iframe 
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d444.64633576420096!2d103.57622794704974!3d-1.6032820643640227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e25885bb23c231f%3A0xbf7bc9146b5af29e!2sBadan%20Kependudukan%20dan%20Keluarga%20Berencana%20Nasional%20(BKKBN)!5e0!3m2!1sid!2sid!4v1739865872144!5m2!1sid!2sid" 
+      allowfullscreen="" 
+      loading="lazy" 
+      referrerpolicy="no-referrer-when-downgrade"
+      class="map-iframe"
+      title="Lokasi BKKBN Jambi"
+    ></iframe>
+  </div>
+
+  <div class="footer-content container">
+    <div class="footer-grid">
+      
+      <div class="footer-col brand-col reveal reveal-up">
+        <h3 class="footer-title">BKKBN | Jambi</h3>
+        <p class="footer-text">
+          JL. R. Moh. Nuradma Dibrata, No. 19,<br>
+          Telanai Pura, Buluran Kenali,<br>
+          Telanaipura, Kota Jambi, Jambi 36123.
+        </p>
+        <p class="footer-contact">
+          <i class="fa-solid fa-envelope mr-2"></i> 
+          <a href="mailto:prov.jambi@bkkbn.go.id" class="text-accent">prov.jambi@bkkbn.go.id</a>
+        </p>
+      </div>
+
+      <div class="footer-col social-col reveal reveal-up delay-200">
+        <h4 class="footer-subtitle">Ikuti Kami</h4>
+        <div class="social-links">
+          <a href="https://www.facebook.com/bkkbnjambiofficial?locale=id_ID" target="_blank" aria-label="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+          <a href="http://www.youtube.com/@bkkbnjambiofficial" target="_blank" aria-label="YouTube"><i class="fa-brands fa-youtube"></i></a>
+          <a href="https://www.instagram.com/kemendukbangga_bkkbnjambi" target="_blank" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+        </div>
+      </div>
+
+
+
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container text-center">
+      <p>&copy; {new Date().getFullYear()} BKKBN PROVINSI JAMBI. Hak Cipta Dilindungi.</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    background-color: var(--bg-dark);
+    position: relative;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+  }
+
+  .map-container {
+    width: 100%;
+    height: 400px;
+    filter: grayscale(80%) invert(100%) hue-rotate(180deg) brightness(80%) contrast(90%);
+    transition: filter 0.5s ease;
+  }
+
+  .map-container:hover {
+    filter: grayscale(20%) brightness(90%);
+  }
+
+  .map-iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+
+  .footer-content {
+    padding: 5rem 1.5rem 3rem;
+  }
+
+  .footer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 3rem;
+  }
+
+  .footer-col {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footer-title {
+    font-size: 1.8rem;
+    font-weight: 800;
+    margin-bottom: 1.5rem;
+    color: var(--text-main);
+  }
+
+  .footer-subtitle {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    color: var(--text-muted);
+  }
+
+  .footer-text {
+    color: var(--text-muted);
+    margin-bottom: 1rem;
+    line-height: 1.8;
+  }
+
+  .footer-contact {
+    margin-top: 1rem;
+  }
+
+  .text-accent {
+    color: var(--accent);
+    transition: var(--transition);
+  }
+
+  .text-accent:hover {
+    color: var(--accent-light);
+    text-decoration: underline;
+  }
+
+  .mr-2 { margin-right: 0.5rem; }
+
+  .social-col {
+    align-items: center;
+    text-align: center;
+  }
+
+  .social-links {
+    display: flex;
+    gap: 1rem;
+  }
+
+  .social-links a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-main);
+    transition: var(--transition);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .social-links a:hover {
+    background: var(--accent);
+    color: var(--bg-dark);
+    transform: translateY(-3px);
+  }
+
+  .footer-bottom {
+    background: #080f1a;
+    padding: 1.5rem 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+  }
+
+  .footer-bottom p {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 0.9rem;
+  }
+
+  .text-center { text-align: center; }
+</style>

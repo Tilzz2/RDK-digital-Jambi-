@@ -1,0 +1,81 @@
+---
+---
+
+<section id="about" class="intro-section">
+  <div class="overlay"></div>
+  <div class="container relative z-10 text-center reveal reveal-up">
+    <h1 class="intro-text">
+      <span class="highlight">Flower</span>, 
+      <span class="highlight">Bee</span>, 
+      <span class="highlight">Honey</span>
+    </h1>
+    <div class="decorative-line"></div>
+    <p class="intro-subtext">Membangun keluarga berkualitas dengan data yang akurat dan terpercaya.</p>
+  </div>
+</section>
+
+<style>
+  .intro-section {
+    position: relative;
+    padding: 10rem 0;
+    /* PENTING: Nama file gambar lebah dari user disetel ke bee-flower.jpg */
+    background: url('/img/bee-flower.jpg') no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .overlay {
+    position: absolute;
+    inset: 0;
+    /* Overlay lebih gelap & hangat agar teks kuning/emas lebih mencolok */
+    background: linear-gradient(135deg, rgba(15, 23, 42, 0.8), rgba(0, 0, 0, 0.9));
+  }
+
+  .relative { position: relative; }
+  .z-10 { z-index: 10; }
+  .text-center { text-align: center; }
+
+  .intro-text {
+    font-size: clamp(3rem, 8vw, 5.5rem);
+    font-weight: 900;
+    line-height: 1.2;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 2rem;
+  }
+
+  .highlight {
+    display: inline-block;
+    color: transparent;
+    -webkit-text-stroke: 2px rgba(255, 255, 255, 0.5);
+    transition: var(--transition);
+    cursor: default;
+  }
+
+  .highlight:hover {
+    color: var(--accent);
+    -webkit-text-stroke: 0px;
+    text-shadow: 0 0 30px rgba(244, 180, 0, 0.6);
+    transform: scale(1.05);
+  }
+
+  .decorative-line {
+    width: 100px;
+    height: 4px;
+    background: linear-gradient(90deg, transparent, var(--accent), transparent);
+    margin: 0 auto 2rem;
+    border-radius: 2px;
+  }
+
+  .intro-subtext {
+    font-size: clamp(1.2rem, 3vw, 1.5rem);
+    color: var(--text-muted);
+    font-weight: 300;
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: 'Inter', sans-serif;
+  }
+</style>

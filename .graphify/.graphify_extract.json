@@ -1,0 +1,1556 @@
+{
+  "nodes": [
+    {
+      "id": "astro_config_mjs",
+      "label": "astro.config.mjs",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\astro.config.mjs",
+      "source_location": "L1"
+    },
+    {
+      "id": "backup_js_bootstrap_js",
+      "label": "bootstrap.js",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "js_bootstrap_transitionend",
+      "label": "transitionEnd()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L36"
+    },
+    {
+      "id": "js_bootstrap_removeelement",
+      "label": "removeElement()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L121"
+    },
+    {
+      "id": "js_bootstrap_clearmenus",
+      "label": "clearMenus()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L767"
+    },
+    {
+      "id": "js_bootstrap_getparent",
+      "label": "getParent()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L778"
+    },
+    {
+      "id": "js_bootstrap_complete",
+      "label": "complete()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L1339"
+    },
+    {
+      "id": "js_bootstrap_scrollspy",
+      "label": "ScrollSpy()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L1607"
+    },
+    {
+      "id": "js_bootstrap_next",
+      "label": "next()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L1808"
+    },
+    {
+      "id": "backup_js_jquery_1_10_2_js",
+      "label": "jquery-1.10.2.js",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "js_jquery_1_10_2_m",
+      "label": "M()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_at",
+      "label": "at()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_st",
+      "label": "st()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_lt",
+      "label": "lt()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_ut",
+      "label": "ut()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_ct",
+      "label": "ct()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_pt",
+      "label": "pt()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_ft",
+      "label": "ft()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_dt",
+      "label": "dt()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_ht",
+      "label": "ht()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_gt",
+      "label": "gt()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_mt",
+      "label": "mt()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_yt",
+      "label": "yt()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_vt",
+      "label": "vt()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_bt",
+      "label": "bt()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_xt",
+      "label": "xt()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_wt",
+      "label": "wt()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_tt",
+      "label": "Tt()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_nt",
+      "label": "Nt()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_kt",
+      "label": "kt()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_f",
+      "label": "F()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4"
+    },
+    {
+      "id": "js_jquery_1_10_2_r",
+      "label": "R()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5"
+    },
+    {
+      "id": "js_jquery_1_10_2_w",
+      "label": "W()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5"
+    },
+    {
+      "id": "js_jquery_1_10_2_i",
+      "label": "I()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5"
+    },
+    {
+      "id": "js_jquery_1_10_2_it",
+      "label": "it()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5"
+    },
+    {
+      "id": "js_jquery_1_10_2_ot",
+      "label": "ot()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5"
+    },
+    {
+      "id": "js_jquery_1_10_2_qt",
+      "label": "qt()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5"
+    },
+    {
+      "id": "js_jquery_1_10_2_t",
+      "label": "_t()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5"
+    },
+    {
+      "id": "js_jquery_1_10_2_tn",
+      "label": "tn()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_nn",
+      "label": "nn()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_rn",
+      "label": "rn()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_on",
+      "label": "on()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_an",
+      "label": "an()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_sn",
+      "label": "sn()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_ln",
+      "label": "ln()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_un",
+      "label": "un()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_gn",
+      "label": "gn()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_hn",
+      "label": "Hn()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_qn",
+      "label": "qn()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_n",
+      "label": "_n()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_k",
+      "label": "k()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_mn",
+      "label": "Mn()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_in",
+      "label": "In()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_zn",
+      "label": "zn()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_kn",
+      "label": "Kn()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_er",
+      "label": "er()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_tr",
+      "label": "tr()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_nr",
+      "label": "nr()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_rr",
+      "label": "rr()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_ir",
+      "label": "ir()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "js_jquery_1_10_2_or",
+      "label": "or()",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6"
+    },
+    {
+      "id": "src_components_cta_astro",
+      "label": "CTA.astro",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\src\\components\\CTA.astro",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_footer_astro",
+      "label": "Footer.astro",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\src\\components\\Footer.astro",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_header_astro",
+      "label": "Header.astro",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\src\\components\\Header.astro",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_intro_astro",
+      "label": "Intro.astro",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\src\\components\\Intro.astro",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_services_astro",
+      "label": "Services.astro",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\src\\components\\Services.astro",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_layouts_layout_astro",
+      "label": "Layout.astro",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\src\\layouts\\Layout.astro",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_pages_index_astro",
+      "label": "index.astro",
+      "file_type": "code",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\src\\pages\\index.astro",
+      "source_location": "L1"
+    }
+  ],
+  "edges": [
+    {
+      "source": "astro_config_mjs",
+      "target": "config",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\astro.config.mjs",
+      "source_location": "L2",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_bootstrap_js",
+      "target": "js_bootstrap_transitionend",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L36",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_bootstrap_js",
+      "target": "js_bootstrap_removeelement",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L121",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_bootstrap_js",
+      "target": "js_bootstrap_clearmenus",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L767",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_bootstrap_js",
+      "target": "js_bootstrap_getparent",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L778",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_bootstrap_js",
+      "target": "js_bootstrap_complete",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L1339",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_bootstrap_js",
+      "target": "js_bootstrap_scrollspy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L1607",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_bootstrap_js",
+      "target": "js_bootstrap_next",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L1808",
+      "weight": 1
+    },
+    {
+      "source": "js_bootstrap_clearmenus",
+      "target": "js_bootstrap_getparent",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\bootstrap.js",
+      "source_location": "L770",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_m",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_at",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_st",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_lt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_ut",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_ct",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_pt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_ft",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_dt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_ht",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_gt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_mt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_yt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_vt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_bt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_xt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_wt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_tt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_ct",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_nt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_kt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_f",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_r",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_w",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_i",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_it",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_ot",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_at",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_pt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_ft",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_dt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_lt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_ht",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_qt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_t",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_mt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_ot",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_ft",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_bt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_tn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_nn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_rn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_on",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_an",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_sn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_ln",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_un",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_gn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_hn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_qn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_n",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_k",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_mn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_on",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_in",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_zn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_kn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_zn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_er",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_tr",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_nr",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_rr",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_ir",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "backup_js_jquery_1_10_2_js",
+      "target": "js_jquery_1_10_2_or",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_at",
+      "target": "js_jquery_1_10_2_mt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_at",
+      "target": "js_jquery_1_10_2_yt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_at",
+      "target": "js_jquery_1_10_2_kt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_ht",
+      "target": "js_jquery_1_10_2_lt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_mt",
+      "target": "js_jquery_1_10_2_k",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_bt",
+      "target": "js_jquery_1_10_2_i",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_wt",
+      "target": "js_jquery_1_10_2_lt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_wt",
+      "target": "js_jquery_1_10_2_nt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_wt",
+      "target": "js_jquery_1_10_2_xt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_wt",
+      "target": "js_jquery_1_10_2_r",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_wt",
+      "target": "js_jquery_1_10_2_i",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_tt",
+      "target": "js_jquery_1_10_2_vt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_tt",
+      "target": "js_jquery_1_10_2_bt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_tt",
+      "target": "js_jquery_1_10_2_wt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_tt",
+      "target": "js_jquery_1_10_2_yt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_ct",
+      "target": "js_jquery_1_10_2_m",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_ct",
+      "target": "js_jquery_1_10_2_xt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_ct",
+      "target": "js_jquery_1_10_2_lt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_nt",
+      "target": "js_jquery_1_10_2_at",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_kt",
+      "target": "js_jquery_1_10_2_mt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_kt",
+      "target": "js_jquery_1_10_2_yt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_kt",
+      "target": "js_jquery_1_10_2_f",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_w",
+      "target": "js_jquery_1_10_2_i",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_ot",
+      "target": "js_jquery_1_10_2_ht",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_ot",
+      "target": "js_jquery_1_10_2_qt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_rn",
+      "target": "js_jquery_1_10_2_nn",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_rn",
+      "target": "js_jquery_1_10_2_ln",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_sn",
+      "target": "js_jquery_1_10_2_wt",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_sn",
+      "target": "js_jquery_1_10_2_an",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_ln",
+      "target": "js_jquery_1_10_2_un",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_gn",
+      "target": "js_jquery_1_10_2_r",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_k",
+      "target": "js_jquery_1_10_2_mn",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_k",
+      "target": "js_jquery_1_10_2_on",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_er",
+      "target": "js_jquery_1_10_2_kn",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_er",
+      "target": "js_jquery_1_10_2_tr",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_nr",
+      "target": "js_jquery_1_10_2_nn",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_nr",
+      "target": "js_jquery_1_10_2_ln",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "js_jquery_1_10_2_nr",
+      "target": "js_jquery_1_10_2_zn",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\backup\\js\\jquery-1.10.2.js",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "src_layouts_layout_astro",
+      "target": "e_web_rdk_digital_jambi_src_styles_global_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\src\\layouts\\Layout.astro",
+      "source_location": "L2",
+      "weight": 1
+    },
+    {
+      "source": "src_pages_index_astro",
+      "target": "src_layouts_layout_astro",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\src\\pages\\index.astro",
+      "source_location": "L2",
+      "weight": 1
+    },
+    {
+      "source": "src_pages_index_astro",
+      "target": "src_components_header_astro",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\src\\pages\\index.astro",
+      "source_location": "L3",
+      "weight": 1
+    },
+    {
+      "source": "src_pages_index_astro",
+      "target": "src_components_intro_astro",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\src\\pages\\index.astro",
+      "source_location": "L4",
+      "weight": 1
+    },
+    {
+      "source": "src_pages_index_astro",
+      "target": "src_components_services_astro",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\src\\pages\\index.astro",
+      "source_location": "L5",
+      "weight": 1
+    },
+    {
+      "source": "src_pages_index_astro",
+      "target": "src_components_cta_astro",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\src\\pages\\index.astro",
+      "source_location": "L6",
+      "weight": 1
+    },
+    {
+      "source": "src_pages_index_astro",
+      "target": "src_components_footer_astro",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "E:\\web\\RDK-digital-Jambi-\\src\\pages\\index.astro",
+      "source_location": "L7",
+      "weight": 1
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,223 @@
+{
+  "communities": {
+    "0": [
+      "backup_js_jquery_1_10_2_js",
+      "js_jquery_1_10_2_dt",
+      "js_jquery_1_10_2_ft",
+      "js_jquery_1_10_2_gt",
+      "js_jquery_1_10_2_hn",
+      "js_jquery_1_10_2_in",
+      "js_jquery_1_10_2_ir",
+      "js_jquery_1_10_2_it",
+      "js_jquery_1_10_2_n",
+      "js_jquery_1_10_2_or",
+      "js_jquery_1_10_2_pt",
+      "js_jquery_1_10_2_qn",
+      "js_jquery_1_10_2_rr",
+      "js_jquery_1_10_2_st",
+      "js_jquery_1_10_2_t",
+      "js_jquery_1_10_2_tn",
+      "js_jquery_1_10_2_ut"
+    ],
+    "1": [
+      "js_jquery_1_10_2_an",
+      "js_jquery_1_10_2_bt",
+      "js_jquery_1_10_2_gn",
+      "js_jquery_1_10_2_i",
+      "js_jquery_1_10_2_nt",
+      "js_jquery_1_10_2_r",
+      "js_jquery_1_10_2_sn",
+      "js_jquery_1_10_2_tt",
+      "js_jquery_1_10_2_vt",
+      "js_jquery_1_10_2_w",
+      "js_jquery_1_10_2_wt"
+    ],
+    "2": [
+      "backup_js_bootstrap_js",
+      "js_bootstrap_clearmenus",
+      "js_bootstrap_complete",
+      "js_bootstrap_getparent",
+      "js_bootstrap_next",
+      "js_bootstrap_removeelement",
+      "js_bootstrap_scrollspy",
+      "js_bootstrap_transitionend"
+    ],
+    "3": [
+      "js_jquery_1_10_2_ct",
+      "js_jquery_1_10_2_ht",
+      "js_jquery_1_10_2_lt",
+      "js_jquery_1_10_2_m",
+      "js_jquery_1_10_2_ot",
+      "js_jquery_1_10_2_qt",
+      "js_jquery_1_10_2_xt"
+    ],
+    "4": [
+      "src_components_cta_astro",
+      "src_components_footer_astro",
+      "src_components_header_astro",
+      "src_components_intro_astro",
+      "src_components_services_astro",
+      "src_layouts_layout_astro",
+      "src_pages_index_astro"
+    ],
+    "5": [
+      "js_jquery_1_10_2_ln",
+      "js_jquery_1_10_2_nn",
+      "js_jquery_1_10_2_nr",
+      "js_jquery_1_10_2_rn",
+      "js_jquery_1_10_2_un",
+      "js_jquery_1_10_2_zn"
+    ],
+    "6": [
+      "js_jquery_1_10_2_at",
+      "js_jquery_1_10_2_f",
+      "js_jquery_1_10_2_kt",
+      "js_jquery_1_10_2_mt",
+      "js_jquery_1_10_2_yt"
+    ],
+    "7": [
+      "js_jquery_1_10_2_er",
+      "js_jquery_1_10_2_kn",
+      "js_jquery_1_10_2_tr"
+    ],
+    "8": [
+      "js_jquery_1_10_2_k",
+      "js_jquery_1_10_2_mn",
+      "js_jquery_1_10_2_on"
+    ],
+    "9": [
+      "astro_config_mjs"
+    ]
+  },
+  "cohesion": {
+    "0": 0.12,
+    "1": 0.2,
+    "2": 0.29,
+    "3": 0.29,
+    "4": 0.29,
+    "5": 0.4,
+    "6": 0.6,
+    "7": 0.67,
+    "8": 0.67,
+    "9": 1
+  },
+  "gods": [
+    {
+      "id": "js_jquery_1_10_2_wt",
+      "label": "wt()",
+      "edges": 8,
+      "degree": 8
+    },
+    {
+      "id": "js_jquery_1_10_2_at",
+      "label": "at()",
+      "edges": 5,
+      "degree": 5
+    },
+    {
+      "id": "js_jquery_1_10_2_tt",
+      "label": "Tt()",
+      "edges": 5,
+      "degree": 5
+    },
+    {
+      "id": "js_jquery_1_10_2_kt",
+      "label": "kt()",
+      "edges": 5,
+      "degree": 5
+    },
+    {
+      "id": "js_jquery_1_10_2_lt",
+      "label": "lt()",
+      "edges": 4,
+      "degree": 4
+    },
+    {
+      "id": "js_jquery_1_10_2_ct",
+      "label": "ct()",
+      "edges": 4,
+      "degree": 4
+    },
+    {
+      "id": "js_jquery_1_10_2_mt",
+      "label": "mt()",
+      "edges": 4,
+      "degree": 4
+    },
+    {
+      "id": "js_jquery_1_10_2_yt",
+      "label": "yt()",
+      "edges": 4,
+      "degree": 4
+    },
+    {
+      "id": "js_jquery_1_10_2_i",
+      "label": "I()",
+      "edges": 4,
+      "degree": 4
+    },
+    {
+      "id": "js_jquery_1_10_2_ln",
+      "label": "ln()",
+      "edges": 4,
+      "degree": 4
+    }
+  ],
+  "surprises": [
+    {
+      "source": "mt()",
+      "target": "k()",
+      "source_files": [
+        "E:/web/RDK-digital-Jambi-/backup/js/jquery-1.10.2.js",
+        "E:/web/RDK-digital-Jambi-/backup/js/jquery-1.10.2.js"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "note": "Bridges community 6 → community 8"
+    },
+    {
+      "source": "wt()",
+      "target": "lt()",
+      "source_files": [
+        "E:/web/RDK-digital-Jambi-/backup/js/jquery-1.10.2.js",
+        "E:/web/RDK-digital-Jambi-/backup/js/jquery-1.10.2.js"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "note": "Bridges community 1 → community 3"
+    },
+    {
+      "source": "Tt()",
+      "target": "yt()",
+      "source_files": [
+        "E:/web/RDK-digital-Jambi-/backup/js/jquery-1.10.2.js",
+        "E:/web/RDK-digital-Jambi-/backup/js/jquery-1.10.2.js"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "note": "Bridges community 1 → community 6"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `wt()` connect `Community 1` to `Community 0`, `Community 3`?",
+      "why": "High betweenness centrality (0.005) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Tt()` connect `Community 1` to `Community 0`, `Community 6`?",
+      "why": "High betweenness centrality (0.001) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `at()` connect `Community 6` to `Community 0`, `Community 1`?",
+      "why": "High betweenness centrality (0.001) - this node is a cross-community bridge."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 0` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.12 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

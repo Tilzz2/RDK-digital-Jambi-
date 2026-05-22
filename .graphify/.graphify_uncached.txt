@@ -1,0 +1,41 @@
+E:\web\RDK-digital-Jambi-\.agent\rules\graphify.md
+E:\web\RDK-digital-Jambi-\.agent\workflows\graphify.md
+E:\web\RDK-digital-Jambi-\README.md
+E:\web\RDK-digital-Jambi-\backup\index.html
+E:\web\RDK-digital-Jambi-\backup\font-awesome\fonts\fontawesome-webfont.svg
+E:\web\RDK-digital-Jambi-\backup\fonts\glyphicons-halflings-regular.svg
+E:\web\RDK-digital-Jambi-\backup\img\Berita Acara Serah Terima.docx.jpg
+E:\web\RDK-digital-Jambi-\backup\img\Candi_Muaro_Jambi_dengan_langit_biru.jpg
+E:\web\RDK-digital-Jambi-\backup\img\Format Perjanjian Kerja Sama Pemanfaatan Data dan Informasi Keluarga.docx.jpg
+E:\web\RDK-digital-Jambi-\backup\img\Format Surat Permohonan.docx.jpg
+E:\web\RDK-digital-Jambi-\backup\img\Logo_Kementerian_Kependudukan_dan_Pembangunan_Keluarga_-_BKKBN_(2024)_(cropped).svg.png
+E:\web\RDK-digital-Jambi-\backup\img\Surat Perjanjian Penggunaan Data.docx.jpg
+E:\web\RDK-digital-Jambi-\backup\img\bg.jpg
+E:\web\RDK-digital-Jambi-\backup\img\callout.jpg
+E:\web\RDK-digital-Jambi-\backup\img\komposisi-pekerja.png
+E:\web\RDK-digital-Jambi-\backup\img\piramida-penduduk-jambi.png
+E:\web\RDK-digital-Jambi-\backup\img\portfolio-1.jpg
+E:\web\RDK-digital-Jambi-\backup\img\portfolio-2.jpg
+E:\web\RDK-digital-Jambi-\backup\img\portfolio-3.jpg
+E:\web\RDK-digital-Jambi-\backup\img\portfolio-4.jpg
+E:\web\RDK-digital-Jambi-\backup\img\sumber-air-minum.png
+E:\web\RDK-digital-Jambi-\backup\img\tingkat-pendidikan-terak.png
+E:\web\RDK-digital-Jambi-\public\favicon.svg
+E:\web\RDK-digital-Jambi-\public\img\Berita Acara Serah Terima.docx.jpg
+E:\web\RDK-digital-Jambi-\public\img\Candi_Muaro_Jambi_dengan_langit_biru.jpg
+E:\web\RDK-digital-Jambi-\public\img\Format Perjanjian Kerja Sama Pemanfaatan Data dan Informasi Keluarga.docx.jpg
+E:\web\RDK-digital-Jambi-\public\img\Format Surat Permohonan.docx.jpg
+E:\web\RDK-digital-Jambi-\public\img\Logo_Kementerian_Kependudukan_dan_Pembangunan_Keluarga_-_BKKBN_(2024)_(cropped).svg.png
+E:\web\RDK-digital-Jambi-\public\img\Surat Perjanjian Penggunaan Data.docx.jpg
+E:\web\RDK-digital-Jambi-\public\img\bg.jpg
+E:\web\RDK-digital-Jambi-\public\img\callout.jpg
+E:\web\RDK-digital-Jambi-\public\img\komposisi-pekerja.png
+E:\web\RDK-digital-Jambi-\public\img\piramida-penduduk-jambi.png
+E:\web\RDK-digital-Jambi-\public\img\portfolio-1.jpg
+E:\web\RDK-digital-Jambi-\public\img\portfolio-2.jpg
+E:\web\RDK-digital-Jambi-\public\img\portfolio-3.jpg
+E:\web\RDK-digital-Jambi-\public\img\portfolio-4.jpg
+E:\web\RDK-digital-Jambi-\public\img\sumber-air-minum.png
+E:\web\RDK-digital-Jambi-\public\img\tingkat-pendidikan-terak.png
+E:\web\RDK-digital-Jambi-\src\assets\astro.svg
+E:\web\RDK-digital-Jambi-\src\assets\background.svg

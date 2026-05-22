@@ -1,0 +1,87 @@
+---
+---
+
+<section class="cta-section">
+  <div class="overlay"></div>
+  <div class="container relative z-10 text-center reveal reveal-scale">
+    <div class="cta-content glass-panel">
+      <h2 class="cta-title">Sistem Pemutakhiran Pendataan Keluarga</h2>
+      <p class="cta-desc">
+        Klik tombol di bawah ini untuk mengakses sistem Pemutakhiran Pendataan
+        Keluarga dari BKKBN.
+      </p>
+
+      <a
+        href="https://rumahdataku.bkkbn.go.id"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="btn btn-accent btn-pulse mt-8"
+      >
+        Kunjungi Rumah DataKu <i class="fa-solid fa-arrow-right ml-2"></i>
+      </a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .cta-section {
+    position: relative;
+    padding: 8rem 0;
+    background: url("/img/Candi_Muaro_Jambi_dengan_langit_biru.jpg") no-repeat
+      center center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      90deg,
+      rgba(15, 23, 42, 0.8) 0%,
+      rgba(10, 81, 117, 0.7) 100%
+    );
+  }
+
+  .relative {
+    position: relative;
+  }
+  .z-10 {
+    z-index: 10;
+  }
+  .text-center {
+    text-align: center;
+  }
+
+  .cta-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 4rem 2rem;
+    backdrop-filter: blur(16px);
+  }
+
+  .cta-title {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 800;
+    margin-bottom: 1.5rem;
+    line-height: 1.2;
+    text-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+  }
+
+  .cta-desc {
+    font-size: clamp(1.1rem, 2.5vw, 1.3rem);
+    color: var(--text-muted);
+    font-family: "Inter", sans-serif;
+    margin-bottom: 2rem;
+  }
+
+  .mt-8 {
+    margin-top: 2rem;
+  }
+  .ml-2 {
+    margin-left: 0.5rem;
+  }
+</style>
