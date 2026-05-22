@@ -16,14 +16,19 @@ jobs:
     steps:
       - name: Checkout your repository using git
         uses: actions/checkout@v4
+      
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "22"
+          node-version: "20"
+          cache: 'npm'  # Add caching for faster installs
+      
       - name: Install dependencies
         run: npm install
+      
       - name: Build with Astro
         run: npm run build
+      
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -34,7 +39,20 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs. that runs these steps:
+1. Checkout repository
+2. Setup Node.js (v20)
+3. Install dependencies
+4. **Build with Astro** ← This step failed
+5. Upload Pages artifact
+6. Deploy to GitHub Pages
+
+The logs show:
+- A GitHub Actions CI environment was detected
+- Astro flagged that additional steps may be needed to set your Node.js version
+- The process exited with code 1 (failure)
+
+**The root cause:** The `npm run build` command (which runs your Astro build) failed, likely due to a Node.js version compatibility issue or missing build configuration for thepage_url }}
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
